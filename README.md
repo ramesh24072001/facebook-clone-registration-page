@@ -8,8 +8,10 @@
 3. Download the mongodbshell (https://www.mongodb.com/try/download/shell)
 4. Initialize a Node.js project:
 5. Before (image)
-   <img width="529" alt="image" src="https://github.com/ramesh24072001/facebook-clone-registration-page/assets/139547072/2a07c7a6-cc58-4e7c-8321-25bb93530524">
-   (note: run this on cmd on the same folder.) npm init -y
+
+<img width="529" alt="image" src="https://github.com/ramesh24072001/facebook-clone-registration-page/assets/139547072/2a07c7a6-cc58-4e7c-8321-25bb93530524">
    
-(ii)npm install express mongoose
+(note: run this on cmd on the same folder.) 
+npm init -y
+npm install express mongoose
    
