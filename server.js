@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Connect to MongoDB
-mongoose.connect('mongodb://127.0.0.1:27017/ramesh', {
+mongoose.connect('mongodb://127.0.0.1:27017/facebook', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
