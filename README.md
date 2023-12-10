@@ -13,5 +13,10 @@
    
 (note: run this on cmd on the same folder.) 
 npm init -y
+
+https://github.com/ramesh24072001/facebook-clone-registration-page/assets/139547072/907bfef6-ba77-48ef-9370-61b9edf43a10
+
 npm install express mongoose
+
+
    
