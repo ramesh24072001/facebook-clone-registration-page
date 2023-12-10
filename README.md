@@ -38,6 +38,10 @@ In the same folder run the cmd on the adressbar of the file explorer.
 After that enter the necessary details in the registartion page you can see it in the mongodb compass.
 
 
+# final output
+
+
+https://github.com/ramesh24072001/facebook-clone-registration-page/assets/139547072/2fd69443-b2c6-487f-b686-997edd01718c
 
 
 
